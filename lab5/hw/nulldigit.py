@@ -2,7 +2,7 @@
 
 
 def main():
-    print(ord('-')*ord('-'))
+    print(ord('-') * ord('-'))
 
 
 if __name__ == "__main__":
